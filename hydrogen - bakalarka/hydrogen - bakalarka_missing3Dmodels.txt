@@ -1,0 +1,16 @@
+### Missing 3D models - created on 2025-11-03 02:32
+### Printed by checking_3D_models plugin
+Board file: C:\Users\Kaso\Documents\KiCad\9.0\projects\hydrogen - bakalarka\hydrogen - bakalarka.kicad_pcb
+3D missing models written to:
+C:\Users\Kaso\Documents\KiCad\9.0\projects\hydrogen - bakalarka\hydrogen - bakalarka_missing3Dmodels.txt
+-------
+('SW3', 'C:\\Program Files\\KiCad\\9.0\\share\\kicad\\3dmodels\\Button_Switch_Keyboard.3dshapes\\SW_Cherry_MX_1.00u_PCB.wrl')
+('SW4', 'C:\\Program Files\\KiCad\\9.0\\share\\kicad\\3dmodels\\Button_Switch_Keyboard.3dshapes\\SW_Cherry_MX_1.00u_PCB.wrl')
+('L1', 'C:\\Program Files\\KiCad\\9.0\\share\\kicad\\3dmodels\\Inductor_SMD.3dshapes\\L_12x12mm_H8mm.wrl')
+('J1', 'C:\\Program Files\\KiCad\\9.0\\share\\kicad\\3dmodels\\TerminalBlock_RND.3dshapes\\TerminalBlock_RND_205-00287_1x02_P5.08mm_Horizontal.wrl')
+('SW1', 'C:\\Program Files\\KiCad\\9.0\\share\\kicad\\3dmodels\\Rotary_Encoder.3dshapes\\RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm.wrl')
+('A1', 'C:\\Program Files\\KiCad\\9.0\\share\\kicad\\3dmodels\\Module.3dshapes\\RaspberryPi_Pico_W.wrl')
+('SW5', 'C:\\Program Files\\KiCad\\9.0\\share\\kicad\\3dmodels\\Button_Switch_Keyboard.3dshapes\\SW_Cherry_MX_1.00u_PCB.wrl')
+-------
+NUM of 3D missing models:7
+checked extensions ['.stp', '.step', '.stpZ']
